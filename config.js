@@ -9,7 +9,7 @@ module.exports = {
 //  PUT YOUR SETTINGS BELOW 👇
 //===========================
     
-SESSION_ID: process.env.SESSION_ID || "SUBZERO-MD~u94WSCbR#hPLqQyT5jY1SwvpFAlaPVxLZkrW7ibsznJNXOmpH_CA",
+SESSION_ID: process.env.SESSION_ID || "SUBZERO-MD~XGI0gYYS#hWsKEO5S5vtudK9qgDQtRPtJzkcH4C-QEWYokbghdxU",
 // add your Session Id 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true or false status auto seen

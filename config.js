@@ -9,7 +9,7 @@ module.exports = {
 //  PUT YOUR SETTINGS BELOW 👇
 //===========================
     
-SESSION_ID: process.env.SESSION_ID || "SUBZERO-MD~H3YDCAoY#22tLDGnGWrj9AqIw03InXR5OSLuqsaZgctrPaHNNgKE",
+SESSION_ID: process.env.SESSION_ID || "SUBZERO-MD~XGI0gYYS#hWsKEO5S5vtudK9qgDQtRPtJzkcH4C-QEWYokbghdxU",
 // add your Session Id 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true or false status auto seen
@@ -47,13 +47,13 @@ MODE: process.env.MODE || "private",
 // make bot public-private-inbox-group 
 ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
-AUTO_VOICE: process.env.AUTO_VOICE || "false",
+AUTO_VOICE: process.env.AUTO_VOICE || "true",
 // make true for send automatic voices
 AUTO_STICKER: process.env.AUTO_STICKER || "false",
 // make true for automatic stickers 
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
 // make true or false automatic text reply 
-ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
+ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
 // maks true for always online 
 PUBLIC_MODE: process.env.PUBLIC_MODE || "false",
 // make false if want private mod
